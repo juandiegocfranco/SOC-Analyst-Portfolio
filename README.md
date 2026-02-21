@@ -1,45 +1,52 @@
-# SOC-Analyst-Portfolio
-SOC L1 Portfolio – Blue Team Labs &amp; Investigations
-Juan Diego Castaño
+## SOC Analyst Portfolio – Juan Diego Castaño
 
 Junior SOC Analyst focused on log analysis, threat detection, and incident investigation.
 
 This portfolio contains hands-on blue team labs demonstrating:
 
-Linux log analysis
+-   Linux log analysis
+    
+-   SSH brute-force detection
+    
+-   Web attack identification
+    
+-   Network traffic investigation
+    
+-   Incident reporting
+    
 
-SSH brute-force detection
+----------
 
-Web attack identification
+### Technical Skills Demonstrated
 
-Network traffic investigation
+-   Log analysis using Linux CLI (grep, awk, sort, uniq)
+    
+-   Identification of Indicators of Compromise (IOC)
+    
+-   Basic network traffic analysis
+    
+-   Attack pattern recognition
+    
+-   Incident documentation and reporting
+    
 
-Incident reporting
+----------
 
-Technical Skills Demonstrated
+### Tools Used
 
-Log analysis using Linux CLI (grep, awk, sort, uniq)
+-   Linux (Ubuntu / Kali)
+    
+-   tcpdump
+    
+-   Wireshark
+    
+-   Git
+    
+-   VirtualBox
+    
 
-Identification of Indicators of Compromise (IOC)
+----------
 
-Basic network traffic analysis
-
-Attack pattern recognition
-
-Incident documentation and reporting
-
-Tools Used
-
-Linux (Ubuntu / Kali)
-
-tcpdump
-
-Wireshark
-
-Git
-
-VirtualBox
-
-Objective
+### Objective
 
 To demonstrate practical SOC Level 1 skills through structured and documented investigations.
